@@ -1,0 +1,15 @@
+{
+  "businessId": "FS-HS-001",
+  "plotId": "PLOT-HS-E03",
+  "shellId": "SHELL-HS-NARROW-02A",
+  "prefabId": "BIZ-GG-001",
+  "position": [
+    14.7,
+    0.35,
+    61
+  ],
+  "rotationY": -1.5707963267948966,
+  "localAxes": "glTF X=frontage, Y=height, Z=-Blender depth",
+  "interiorWidth": 5.18,
+  "interiorDepth": 13.95
+}
